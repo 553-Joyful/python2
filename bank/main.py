@@ -2,6 +2,7 @@
 # 项目入口
 # hello world
 # 你的三分落了网,我的青春散了场.
+#  你的三分剑是地狱的火焰.
 
 
 from view import View
